@@ -6,3 +6,5 @@ The code includes;
 Current date, local storage, color change depending on time, textarea for calendar, save button, recalling data input
 
 url:audluc.github.io/work-day-scheduler/
+
+
