@@ -5,4 +5,4 @@ Create a working calendar that includes the currrent day display, timeblocks for
 The code includes;
 Current date, local storage, color change depending on time, textarea for calendar, save button, recalling data input
 
-url:
+url:audluc.github.io/work-day-scheduler/
